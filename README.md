@@ -1,0 +1,3 @@
+# Password Generator
+This is a password generator,it is to display a randomly generated password. The password thats generated will include at least one if not all of the Uppercase, lowercase, special characters, and numbers.
+ For the password to be generated the button must be clicked. After the button is clicked the user will be propmted to have at least 8 characters and no more than 128 characters. Then there will be a few more propmts that will ask if the user would like to use uppercase, lowercase, numbers, or special characters. Once the user answers the prompts the password generator will randomly generate a password.  
